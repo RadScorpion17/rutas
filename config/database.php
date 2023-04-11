@@ -74,7 +74,7 @@ return [
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
-            'search_path' => 'eot',
+            'search_path' => 'rutas',
             'sslmode' => 'prefer',
         ],
 
